@@ -1,0 +1,18 @@
+{
+  "name": "video-dock-player",
+  "version": "1.0.0",
+  "description": "Play videos on Mac Dock icon",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "guguhuang",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.0.0"
+  },
+  "dependencies": {
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
