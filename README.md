@@ -13,7 +13,7 @@ A program that plays videos in the Mac Dock bar by utilizing the Dock icon dynam
 3. Load a video
 4. Click play to see the video displayed in the Dock bar
 5. The repository includes a BadApple sample video. For the best experience, set audio playback to 1x speed and start it 0.2 seconds earlier
-
+---
 1. 运行`npm install`安装依赖（ffmpeg-static安装可能会有点问题，建议直接使用国内镜像源下载）
 2. 运行`npm start`启动Electron应用
 3. 加载视频
