@@ -2,6 +2,8 @@
 
 ## Introduction / 简介
 
+![https://i.v2ex.co/685kIq50.png](https://i.v2ex.co/685kIq50.png)
+
 A program that plays videos in the Mac Dock bar by utilizing the Dock icon dynamic replacement API.
 
 利用Dock图标动态替换API，实现的一款在Mac Dock栏播放视频的程序。
