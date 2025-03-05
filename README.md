@@ -20,6 +20,10 @@ A program that plays videos in the Mac Dock bar by utilizing the Dock icon dynam
 4. 点击播放即可在Dock栏中看到视频画面
 5. 仓库中提供了BadApple的范例视频，建议将音频的播放时间设置为1倍速+提前0.2秒播放，体验最佳
 
+## Demo Video / 演示视频
+
+[https://www.bilibili.com/video/BV1679oYKEdX](https://www.bilibili.com/video/BV1679oYKEdX)
+
 ## Finally / 最后
 
 If you like this project, please give me a star. Thank you.
